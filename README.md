@@ -2,7 +2,7 @@ This repository contains the SQL queries and report I created for an individual 
 
 # Project overview
 The project was comprised of several stages:
-1. Data Processing: Cleaning and preprocessing of Airbnb data to ensure accuracy and reliability in subsequent analyses.
+1. Data Processing: Cleaning and preprocessing of [Inside Airbnb](https://insideairbnb.com/)  data to ensure accuracy and reliability in subsequent analyses.
 2. Database Implementation: Designing and setting up the database schema using SQL, including an Entity-Relationship Diagram (ERD) and ensuring normalization (NF) for efficient data storage and retrieval.
 3. Querying and Reporting: Developing SQL queries to extract insights such as listings distribution, pricing trends, host registration patterns, and distribution of listings per host.
 4. Report Preparation: Summarizing findings, discussing methodology, and presenting recommendations in a comprehensive report.
