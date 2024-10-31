@@ -1,5 +1,5 @@
 # Background
-This repository contains the SQL queries and report I created for an individual assignment completed as part of the MScBA in Business Analytics & Management program (September - October 2023). The project, undertaken for the Data Management & Ethics course, aimed to analyze the impact of Airbnb on Parisian neighborhoods and recommend ethical data management practices in the context of hospitality data.
+This repository contains the SQL queries and report I created for an individual assignment completed as part of the MScBA in Business Analytics & Management program at the Erasmus University Rotterdam. The project, undertaken for the Data Management & Ethics course (September 2023 - October 2023), aimed to analyze the impact of Airbnb on Parisian neighborhoods and recommend ethical data management practices in the context of hospitality data.
 
 # Project overview
 The project was comprised of several stages:
